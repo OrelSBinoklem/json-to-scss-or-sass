@@ -1,6 +1,6 @@
 {
   "name": "json-to-scss-or-sass",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple node module to convert json to sass or scss variables",
   "main": "index.js",
   "scripts": {
